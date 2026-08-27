@@ -1,0 +1,6 @@
+{
+  "name": "Portal RH Hotel",
+  "description": "Sistema Integral de Recursos Humanos, Control de Asistencia, Horarios Rotativos, Incidencias, Vacaciones y Prenómina para Hoteles con Integración a Biométricos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
